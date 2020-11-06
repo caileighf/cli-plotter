@@ -2,13 +2,19 @@
 Simple modular text-based command line plotter
 
 ### Setup
-I recommend using `virtualenv`. Once in your environment run: `pip install -r requirements.txt`
+I recommend using a python `virtualenv`. Once in your environment run: `pip install -r requirements.txt`
 
+### Running the code
+This module was designed to utilize OS pipes to extract data from a source, transform that data into floating point comma separated values and pipe that to the `time_series.py` script. The boilerplate command is:
+```
+EXTRACT-DATA | TRANSFORM-DATA | LOAD && DISPLAY DATA
+```
+
+`cat ./examples/example_IMU_data.txt | python src/rpy_adapter.py | python src/time_series.py`
 ![rpy demo](./images/rpy.gif?raw=true)
-`cat ./examples/example_IMU_data.txt | python src/rpy_adapter.py | python src/time_series.py`
 
-![heading only demo](./images/heading_only.gif?raw=true)
 `cat ./examples/example_IMU_data.txt | python src/rpy_adapter.py | python src/time_series.py`
+![heading only demo](./images/heading_only.gif?raw=true)
 
 ### Run with real-time sensor outputting on serial port
 `cat /dev/ttyACM0 | python src/rpy_adapter.py | python src/time_series.py`
