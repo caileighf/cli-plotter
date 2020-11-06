@@ -1,0 +1,682 @@
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9306, "x": -0.0131, "y": -0.0005, "z": 0.3657, "units": "" }
+{"type": "ypr", "yaw": 317.06, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 10.38, "y": 11.19, "z": -22.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9299, "x": -0.0131, "y": -0.0005, "z": 0.3677, "units": "" }
+{"type": "ypr", "yaw": 316.81, "pitch": -0.44, "roll": 1.38, "units", "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9282, "x": -0.0131, "y": -0.0005, "z": 0.3720, "units": "" }
+{"type": "ypr", "yaw": 316.31, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.88, "y": 11.56, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9282, "x": -0.0131, "y": -0.0005, "z": 0.3720, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.06, "y": 11.56, "z": -22.00, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.50, "y": 12.00, "z": -22.00, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.50, "y": 12.00, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.06, "y": 12.38, "z": -22.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.88, "y": 12.00, "z": -22.69, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.06, "y": 13.06, "z": -22.00, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.50, "y": 12.69, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9281, "x": -0.0131, "y": -0.0005, "z": 0.3721, "units": "" }
+{"type": "ypr", "yaw": 316.25, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.50, "y": 12.00, "z": -23.19, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9278, "x": -0.0133, "y": -0.0007, "z": 0.3729, "units": "" }
+{"type": "ypr", "yaw": 316.00, "pitch": -0.50, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 11.00, "y": 12.38, "z": -22.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9266, "x": -0.0137, "y": -0.0008, "z": 0.3757, "units": "" }
+{"type": "ypr", "yaw": 315.81, "pitch": -0.50, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 11.38, "y": 12.38, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9241, "x": -0.0139, "y": -0.0008, "z": 0.3819, "units": "" }
+{"type": "ypr", "yaw": 314.69, "pitch": -0.50, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 12.19, "y": 12.38, "z": -22.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8968, "x": -0.0135, "y": -0.0008, "z": 0.4423, "units": "" }
+{"type": "ypr", "yaw": 307.44, "pitch": -0.56, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.38, "y": 10.88, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8591, "x": -0.0129, "y": -0.0009, "z": 0.5116, "units": "" }
+{"type": "ypr", "yaw": 297.69, "pitch": -0.62, "roll": 1.31, "units": "deg" }
+{"type": "mag", "x": 11.38, "y": 10.19, "z": -24.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8141, "x": -0.0123, "y": -0.0011, "z": 0.5806, "units": "" }
+{"type": "ypr", "yaw": 288.19, "pitch": -0.69, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 13.56, "y": 8.38, "z": -26.69, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7593, "x": -0.0115, "y": -0.0013, "z": 0.6506, "units": "" }
+{"type": "ypr", "yaw": 278.06, "pitch": -0.69, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 13.56, "y": 6.50, "z": -27.88, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.6973, "x": -0.0106, "y": -0.0015, "z": 0.7167, "units": "" }
+{"type": "ypr", "yaw": 267.44, "pitch": -0.75, "roll": 0.94, "units": "deg" }
+{"type": "mag", "x": 14.56, "y": 4.56, "z": -29.50, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.6227, "x": -0.0095, "y": -0.0016, "z": 0.7824, "units": "" }
+{"type": "ypr", "yaw": 256.12, "pitch": -0.69, "roll": 0.81, "units": "deg" }
+{"type": "mag", "x": 14.88, "y": 2.06, "z": -31.88, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.5439, "x": -0.0082, "y": -0.0018, "z": 0.8391, "units": "" }
+{"type": "ypr", "yaw": 244.94, "pitch": -0.62, "roll": 0.62, "units": "deg" }
+{"type": "mag", "x": 15.19, "y": -0.38, "z": -32.88, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.4537, "x": -0.0068, "y": -0.0020, "z": 0.8911, "units": "" }
+{"type": "ypr", "yaw": 233.94, "pitch": -0.56, "roll": 0.50, "units": "deg" }
+{"type": "mag", "x": 15.56, "y": -3.25, "z": -34.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.3985, "x": -0.0060, "y": -0.0021, "z": 0.9172, "units": "" }
+{"type": "ypr", "yaw": 226.44, "pitch": -0.50, "roll": 0.44, "units": "deg" }
+{"type": "mag", "x": 14.50, "y": -6.56, "z": -36.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.3723, "x": -0.0052, "y": -0.0022, "z": 0.9281, "units": "" }
+{"type": "ypr", "yaw": 223.62, "pitch": -0.44, "roll": 0.44, "units": "deg" }
+{"type": "mag", "x": 13.75, "y": -9.00, "z": -35.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.3717, "x": -0.0052, "y": -0.0023, "z": 0.9283, "units": "" }
+{"type": "ypr", "yaw": 223.62, "pitch": -0.44, "roll": 0.44, "units": "deg" }
+{"type": "mag", "x": 14.50, "y": -9.25, "z": -36.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.4295, "x": -0.0059, "y": -0.0018, "z": 0.9030, "units": "" }
+{"type": "ypr", "yaw": 231.56, "pitch": -0.50, "roll": 0.44, "units": "deg" }
+{"type": "mag", "x": 14.06, "y": -7.50, "z": -35.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.5410, "x": -0.0070, "y": -0.0016, "z": 0.8410, "units": "" }
+{"type": "ypr", "yaw": 246.81, "pitch": -0.56, "roll": 0.56, "units": "deg" }
+{"type": "mag", "x": 15.19, "y": -2.75, "z": -35.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.6713, "x": -0.0086, "y": -0.0013, "z": 0.7411, "units": "" }
+{"type": "ypr", "yaw": 265.56, "pitch": -0.62, "roll": 0.75, "units": "deg" }
+{"type": "mag", "x": 15.88, "y": 0.75, "z": -33.38, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7657, "x": -0.0098, "y": -0.0012, "z": 0.6431, "units": "" }
+{"type": "ypr", "yaw": 279.94, "pitch": -0.62, "roll": 0.94, "units": "deg" }
+{"type": "mag", "x": 16.25, "y": 5.50, "z": -31.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8420, "x": -0.0110, "y": -0.0009, "z": 0.5394, "units": "" }
+{"type": "ypr", "yaw": 295.94, "pitch": -0.56, "roll": 1.12, "units": "deg" }
+{"type": "mag", "x": 13.75, "y": 8.38, "z": -29.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9022, "x": -0.0118, "y": -0.0006, "z": 0.4312, "units": "" }
+{"type": "ypr", "yaw": 309.81, "pitch": -0.50, "roll": 1.25, "units": "deg" }
+{"type": "mag", "x": 10.50, "y": 10.56, "z": -26.25, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9437, "x": -0.0124, "y": -0.0005, "z": 0.3304, "units": "" }
+{"type": "ypr", "yaw": 322.25, "pitch": -0.38, "roll": 1.31, "units": "deg" }
+{"type": "mag", "x": 10.69, "y": 12.38, "z": -24.56, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9687, "x": -0.0128, "y": -0.0005, "z": 0.2480, "units": "" }
+{"type": "ypr", "yaw": 332.00, "pitch": -0.25, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 8.50, "y": 14.50, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9857, "x": -0.0131, "y": -0.0004, "z": 0.1683, "units": "" }
+{"type": "ypr", "yaw": 340.56, "pitch": -0.19, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 7.25, "y": 16.19, "z": -22.69, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9945, "x": -0.0132, "y": -0.0002, "z": 0.1040, "units": "" }
+{"type": "ypr", "yaw": 348.81, "pitch": -0.06, "roll": 1.50, "units": "deg" }
+{"type": "mag", "x": 5.50, "y": 19.00, "z": -21.50, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9993, "x": -0.0137, "y": 0.0003, "z": 0.0339, "units": "" }
+{"type": "ypr", "yaw": 356.06, "pitch": -0.06, "roll": 1.56, "units": "deg" }
+{"type": "mag", "x": 2.69, "y": 19.56, "z": -22.69, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9999, "x": -0.0142, "y": 0.0005, "z": 0.0086, "units": "" }
+{"type": "ypr", "yaw": 359.00, "pitch": -0.06, "roll": 1.62, "units": "deg" }
+{"type": "mag", "x": 1.00, "y": 20.69, "z": -23.88, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9993, "x": -0.0137, "y": 0.0008, "z": 0.0343, "units": "" }
+{"type": "ypr", "yaw": 355.31, "pitch": -0.12, "roll": 1.50, "units": "deg" }
+{"type": "mag", "x": 0.56, "y": 21.00, "z": -24.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9926, "x": 0.0303, "y": 0.0790, "z": 0.0871, "units": "" }
+{"type": "ypr", "yaw": 349.31, "pitch": -10.06, "roll": -4.62, "units": "deg" }
+{"type": "mag", "x": 1.69, "y": 18.06, "z": -21.19, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9743, "x": -0.0077, "y": 0.1621, "z": 0.1563, "units": "" }
+{"type": "ypr", "yaw": 341.19, "pitch": -19.12, "roll": -2.00, "units": "deg" }
+{"type": "mag", "x": 2.88, "y": 21.00, "z": -22.56, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9446, "x": -0.0587, "y": 0.2457, "z": 0.2094, "units": "" }
+{"type": "ypr", "yaw": 334.94, "pitch": -29.25, "roll": 0.50, "units": "deg" }
+{"type": "mag", "x": 4.69, "y": 25.50, "z": -23.19, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9087, "x": -0.0988, "y": 0.3402, "z": 0.2210, "units": "" }
+{"type": "ypr", "yaw": 332.50, "pitch": -42.06, "roll": 2.50, "units": "deg" }
+{"type": "mag", "x": 9.25, "y": 29.56, "z": -24.50, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8144, "x": -0.1844, "y": 0.5027, "z": 0.2237, "units": "" }
+{"type": "ypr", "yaw": 329.25, "pitch": -64.31, "roll": 10.00, "units": "deg" }
+{"type": "mag", "x": 20.50, "y": 33.00, "z": -13.50, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7745, "x": -0.1924, "y": 0.5626, "z": 0.2160, "units": "" }
+{"type": "ypr", "yaw": 328.75, "pitch": -73.38, "roll": 10.81, "units": "deg" }
+{"type": "mag", "x": 23.75, "y": 31.75, "z": -9.75, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7144, "x": -0.2158, "y": 0.6299, "z": 0.2152, "units": "" }
+{"type": "ypr", "yaw": 326.06, "pitch": -84.06, "roll": 2.06, "units": "deg" }
+{"type": "mag", "x": 28.56, "y": 31.06, "z": -2.25, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.6282, "x": -0.2762, "y": 0.6924, "z": 0.2226, "units": "" }
+{"type": "ypr", "yaw": 320.44, "pitch": -82.19, "roll": 162.94, "units": "deg" }
+{"type": "mag", "x": 29.00, "y": 30.75, "z": 6.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.5377, "x": -0.3404, "y": 0.7421, "z": 0.2107, "units": "" }
+{"type": "ypr", "yaw": 316.88, "pitch": -69.38, "roll": 171.44, "units": "deg" }
+{"type": "mag", "x": 24.75, "y": 30.50, "z": 20.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.4816, "x": -0.3613, "y": 0.7725, "z": 0.2019, "units": "" }
+{"type": "ypr", "yaw": 314.50, "pitch": -62.88, "roll": 175.44, "units": "deg" }
+{"type": "mag", "x": 23.19, "y": 29.38, "z": 25.50, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.5334, "x": -0.3181, "y": 0.7585, "z": 0.1971, "units": "" }
+{"type": "ypr", "yaw": 319.62, "pitch": -70.38, "roll": 173.94, "units": "deg" }
+{"type": "mag", "x": 22.50, "y": 28.50, "z": 24.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.6503, "x": -0.2068, "y": 0.6871, "z": 0.2496, "units": "" }
+{"type": "ypr", "yaw": 317.62, "pitch": -84.94, "roll": -5.00, "units": "deg" }
+{"type": "mag", "x": 31.00, "y": 27.00, "z": 11.38, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7726, "x": -0.1136, "y": 0.5526, "z": 0.2913, "units": "" }
+{"type": "ypr", "yaw": 318.69, "pitch": -65.25, "roll": -20.62, "units": "deg" }
+{"type": "mag", "x": 34.56, "y": 23.69, "z": -1.69, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8676, "x": -0.0220, "y": 0.3744, "z": 0.3267, "units": "" }
+{"type": "ypr", "yaw": 318.50, "pitch": -39.25, "roll": -16.12, "units": "deg" }
+{"type": "mag", "x": 27.56, "y": 24.50, "z": -25.25, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9145, "x": 0.0464, "y": 0.1951, "z": 0.3514, "units": "" }
+{"type": "ypr", "yaw": 317.56, "pitch": -17.69, "roll": -12.75, "units": "deg" }
+{"type": "mag", "x": 15.88, "y": 25.50, "z": -39.19, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9240, "x": 0.0447, "y": 0.1031, "z": 0.3655, "units": "" }
+{"type": "ypr", "yaw": 316.75, "pitch": -9.38, "roll": -8.62, "units": "deg" }
+{"type": "mag", "x": -0.19, "y": 34.50, "z": -37.19, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9174, "x": -0.0611, "y": 0.1415, "z": 0.3670, "units": "" }
+{"type": "ypr", "yaw": 316.38, "pitch": -17.69, "roll": 0.44, "units": "deg" }
+{"type": "mag", "x": -0.25, "y": 33.38, "z": -19.56, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9157, "x": -0.0689, "y": 0.1559, "z": 0.3639, "units": "" }
+{"type": "ypr", "yaw": 316.88, "pitch": -19.44, "roll": 0.69, "units": "deg" }
+{"type": "mag", "x": 11.25, "y": 19.25, "z": -14.06, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9307, "x": -0.0204, "y": 0.0268, "z": 0.3642, "units": "" }
+{"type": "ypr", "yaw": 317.25, "pitch": -3.69, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 12.69, "y": 18.38, "z": -21.06, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9203, "x": -0.0104, "y": 0.0009, "z": 0.3909, "units": "" }
+{"type": "ypr", "yaw": 313.19, "pitch": -0.56, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 10.50, "y": 12.00, "z": -26.19, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8112, "x": -0.0093, "y": 0.0002, "z": 0.5848, "units": "" }
+{"type": "ypr", "yaw": 285.44, "pitch": -0.62, "roll": 0.81, "units": "deg" }
+{"type": "mag", "x": 12.00, "y": 10.19, "z": -27.56, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7585, "x": -0.0084, "y": 0.0001, "z": 0.6516, "units": "" }
+{"type": "ypr", "yaw": 278.62, "pitch": -0.62, "roll": 0.69, "units": "deg" }
+{"type": "mag", "x": 13.75, "y": 3.69, "z": -29.88, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9214, "x": -0.0077, "y": 0.0024, "z": 0.3885, "units": "" }
+{"type": "ypr", "yaw": 313.81, "pitch": -0.50, "roll": 1.12, "units": "deg" }
+{"type": "mag", "x": 12.06, "y": 9.38, "z": -29.00, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8152, "x": -0.0110, "y": -0.0005, "z": 0.5791, "units": "" }
+{"type": "ypr", "yaw": 289.19, "pitch": -0.62, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 14.19, "y": 7.56, "z": -27.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.7716, "x": -0.0084, "y": 0.0001, "z": 0.6360, "units": "" }
+{"type": "ypr", "yaw": 281.62, "pitch": -0.56, "roll": 0.69, "units": "deg" }
+{"type": "mag", "x": 15.25, "y": 5.06, "z": -29.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8491, "x": -0.0103, "y": 0.0002, "z": 0.5281, "units": "" }
+{"type": "ypr", "yaw": 297.50, "pitch": -0.62, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 13.38, "y": 7.19, "z": -27.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9022, "x": -0.0118, "y": -0.0001, "z": 0.4313, "units": "" }
+{"type": "ypr", "yaw": 309.31, "pitch": -0.56, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 13.75, "y": 9.00, "z": -27.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9642, "x": -0.0120, "y": 0.0007, "z": 0.2651, "units": "" }
+{"type": "ypr", "yaw": 330.69, "pitch": -0.38, "roll": 1.31, "units": "deg" }
+{"type": "mag", "x": 10.88, "y": 13.69, "z": -26.19, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9683, "x": -0.0120, "y": 0.0005, "z": 0.2493, "units": "" }
+{"type": "ypr", "yaw": 331.06, "pitch": -0.38, "roll": 1.31, "units": "deg" }
+{"type": "mag", "x": 8.38, "y": 16.06, "z": -24.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8992, "x": -0.0109, "y": -0.0001, "z": 0.4374, "units": "" }
+{"type": "ypr", "yaw": 307.00, "pitch": -0.50, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 13.38, "y": 10.25, "z": -25.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9409, "x": -0.0111, "y": 0.0003, "z": 0.3386, "units": "" }
+{"type": "ypr", "yaw": 323.00, "pitch": -0.44, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 9.19, "z": -27.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9105, "x": -0.0110, "y": 0.0003, "z": 0.4133, "units": "" }
+{"type": "ypr", "yaw": 309.69, "pitch": -0.56, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 11.56, "y": 12.06, "z": -26.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9217, "x": -0.0100, "y": 0.0007, "z": 0.3878, "units": "" }
+{"type": "ypr", "yaw": 316.81, "pitch": -0.50, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 10.56, "z": -28.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9288, "x": -0.0112, "y": 0.0003, "z": 0.3704, "units": "" }
+{"type": "ypr", "yaw": 316.50, "pitch": -0.50, "roll": 1.12, "units": "deg" }
+{"type": "mag", "x": 10.19, "y": 12.38, "z": -25.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8847, "x": -0.0102, "y": 0.0002, "z": 0.4661, "units": "" }
+{"type": "ypr", "yaw": 306.50, "pitch": -0.50, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 10.00, "z": -27.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9392, "x": -0.0114, "y": 0.0005, "z": 0.3431, "units": "" }
+{"type": "ypr", "yaw": 319.81, "pitch": -0.44, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 10.56, "y": 13.50, "z": -25.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8831, "x": -0.0106, "y": 0.0002, "z": 0.4691, "units": "" }
+{"type": "ypr", "yaw": 304.00, "pitch": -0.56, "roll": 1.00, "units": "deg" }
+{"type": "mag", "x": 12.38, "y": 10.50, "z": -28.19, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9506, "x": -0.0120, "y": 0.0004, "z": 0.3101, "units": "" }
+{"type": "ypr", "yaw": 323.88, "pitch": -0.44, "roll": 1.25, "units": "deg" }
+{"type": "mag", "x": 10.19, "y": 12.69, "z": -27.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.8865, "x": -0.0108, "y": 0.0001, "z": 0.4627, "units": "" }
+{"type": "ypr", "yaw": 303.88, "pitch": -0.56, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 11.25, "y": 12.00, "z": -29.00, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9327, "x": -0.0114, "y": 0.0002, "z": 0.3605, "units": "" }
+{"type": "ypr", "yaw": 320.62, "pitch": -0.44, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 10.88, "y": 11.25, "z": -27.38, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9460, "x": -0.0121, "y": 0.0001, "z": 0.3240, "units": "" }
+{"type": "ypr", "yaw": 322.12, "pitch": -0.44, "roll": 1.25, "units": "deg" }
+{"type": "mag", "x": 8.00, "y": 14.19, "z": -27.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9341, "x": -0.0114, "y": 0.0005, "z": 0.3568, "units": "" }
+{"type": "ypr", "yaw": 318.38, "pitch": -0.50, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 10.88, "y": 12.38, "z": -27.06, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9442, "x": 0.0105, "y": 0.0366, "z": 0.3271, "units": "" }
+{"type": "ypr", "yaw": 321.75, "pitch": -3.56, "roll": -2.50, "units": "deg" }
+{"type": "mag", "x": 11.25, "y": 12.00, "z": -26.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9302, "x": -0.0471, "y": 0.1556, "z": 0.3291, "units": "" }
+{"type": "ypr", "yaw": 321.12, "pitch": -19.25, "roll": -1.12, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 16.25, "z": -23.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9304, "x": -0.0610, "y": 0.1586, "z": 0.3248, "units": "" }
+{"type": "ypr", "yaw": 321.56, "pitch": -19.31, "roll": 0.75, "units": "deg" }
+{"type": "mag", "x": 14.25, "y": 20.25, "z": -20.88, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9456, "x": -0.0520, "y": 0.0518, "z": 0.3168, "units": "" }
+{"type": "ypr", "yaw": 323.00, "pitch": -5.62, "roll": 5.56, "units": "deg" }
+{"type": "mag", "x": 12.88, "y": 18.38, "z": -22.00, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9478, "x": -0.0616, "y": -0.0132, "z": 0.3125, "units": "" }
+{"type": "ypr", "yaw": 323.69, "pitch": -0.62, "roll": 5.50, "units": "deg" }
+{"type": "mag", "x": 11.69, "y": 15.56, "z": -19.19, "units": "uT" }
+{"type": "cal", "sys": 0, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9472, "x": -0.0286, "y": 0.0047, "z": 0.3193, "units": "" }
+{"type": "ypr", "yaw": 322.69, "pitch": -1.50, "roll": 2.88, "units": "deg" }
+{"type": "mag", "x": 10.56, "y": 10.50, "z": -22.25, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9372, "x": -0.0761, "y": 0.0930, "z": 0.3274, "units": "" }
+{"type": "ypr", "yaw": 321.69, "pitch": -13.75, "roll": 4.44, "units": "deg" }
+{"type": "mag", "x": 12.00, "y": 16.69, "z": -20.25, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9406, "x": -0.0549, "y": 0.1121, "z": 0.3158, "units": "" }
+{"type": "ypr", "yaw": 322.88, "pitch": -14.19, "roll": 1.88, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 19.56, "z": -21.06, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9467, "x": -0.0145, "y": 0.0009, "z": 0.3218, "units": "" }
+{"type": "ypr", "yaw": 322.62, "pitch": -0.50, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 11.25, "y": 14.50, "z": -23.00, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9480, "x": -0.0131, "y": -0.0001, "z": 0.3181, "units": "" }
+{"type": "ypr", "yaw": 322.88, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 10.19, "y": 12.00, "z": -25.38, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9403, "x": -0.0330, "y": 0.0566, "z": 0.3340, "units": "" }
+{"type": "ypr", "yaw": 320.88, "pitch": -8.56, "roll": 1.25, "units": "deg" }
+{"type": "mag", "x": 11.25, "y": 13.06, "z": -22.56, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9330, "x": -0.0567, "y": 0.1276, "z": 0.3318, "units": "" }
+{"type": "ypr", "yaw": 320.81, "pitch": -15.88, "roll": 1.25, "units": "deg" }
+{"type": "mag", "x": 13.06, "y": 17.38, "z": -21.69, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9396, "x": -0.0328, "y": 0.0627, "z": 0.3348, "units": "" }
+{"type": "ypr", "yaw": 320.75, "pitch": -8.00, "roll": 1.12, "units": "deg" }
+{"type": "mag", "x": 12.00, "y": 16.38, "z": -22.50, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9453, "x": -0.0080, "y": -0.0004, "z": 0.3263, "units": "" }
+{"type": "ypr", "yaw": 322.12, "pitch": -0.25, "roll": 0.88, "units": "deg" }
+{"type": "mag", "x": 9.50, "y": 12.38, "z": -24.00, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9470, "x": 0.0023, "y": 0.0078, "z": 0.3212, "units": "" }
+{"type": "ypr", "yaw": 322.56, "pitch": -1.31, "roll": -0.62, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 10.50, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9352, "x": -0.0614, "y": 0.1439, "z": 0.3178, "units": "" }
+{"type": "ypr", "yaw": 322.44, "pitch": -18.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 12.25, "y": 16.69, "z": -21.50, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9407, "x": -0.0482, "y": 0.1135, "z": 0.3161, "units": "" }
+{"type": "ypr", "yaw": 322.75, "pitch": -13.38, "roll": 1.06, "units": "deg" }
+{"type": "mag", "x": 12.25, "y": 19.19, "z": -20.38, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9481, "x": -0.0201, "y": 0.0209, "z": 0.3167, "units": "" }
+{"type": "ypr", "yaw": 323.00, "pitch": -2.94, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.19, "y": 15.19, "z": -22.38, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9490, "x": -0.0110, "y": -0.0001, "z": 0.3149, "units": "" }
+{"type": "ypr", "yaw": 323.25, "pitch": -0.38, "roll": 1.12, "units": "deg" }
+{"type": "mag", "x": 9.00, "y": 10.50, "z": -23.38, "units": "uT" }
+{"type": "cal", "sys": 1, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9417, "x": -0.0281, "y": 0.0373, "z": 0.3331, "units": "" }
+{"type": "ypr", "yaw": 321.00, "pitch": -5.06, "roll": 1.56, "units": "deg" }
+{"type": "mag", "x": 10.06, "y": 12.00, "z": -23.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9386, "x": -0.0470, "y": 0.0977, "z": 0.3275, "units": "" }
+{"type": "ypr", "yaw": 321.50, "pitch": -12.31, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 11.88, "y": 17.38, "z": -21.06, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9425, "x": -0.0329, "y": 0.0620, "z": 0.3268, "units": "" }
+{"type": "ypr", "yaw": 321.75, "pitch": -7.25, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 11.50, "y": 16.38, "z": -21.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9460, "x": -0.0123, "y": 0.0002, "z": 0.3239, "units": "" }
+{"type": "ypr", "yaw": 322.25, "pitch": -0.44, "roll": 1.31, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 11.69, "z": -23.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9443, "x": -0.0164, "y": 0.0071, "z": 0.3285, "units": "" }
+{"type": "ypr", "yaw": 321.62, "pitch": -1.88, "roll": 1.50, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 10.88, "z": -24.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9409, "x": -0.0427, "y": 0.0817, "z": 0.3260, "units": "" }
+{"type": "ypr", "yaw": 321.75, "pitch": -10.44, "roll": 1.56, "units": "deg" }
+{"type": "mag", "x": 12.25, "y": 15.56, "z": -20.56, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9440, "x": -0.0361, "y": 0.0671, "z": 0.3210, "units": "" }
+{"type": "ypr", "yaw": 322.38, "pitch": -7.94, "roll": 1.44, "units": "deg" }
+{"type": "mag", "x": 11.88, "y": 17.00, "z": -20.19, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9476, "x": -0.0128, "y": 0.0003, "z": 0.3193, "units": "" }
+{"type": "ypr", "yaw": 322.75, "pitch": -0.44, "roll": 1.38, "units": "deg" }
+{"type": "mag", "x": 10.06, "y": 11.25, "z": -23.25, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9482, "x": -0.0139, "y": 0.0001, "z": 0.3174, "units": "" }
+{"type": "ypr", "yaw": 323.19, "pitch": -0.50, "roll": 1.56, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 10.50, "z": -24.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9448, "x": -0.0367, "y": -0.0088, "z": 0.3255, "units": "" }
+{"type": "ypr", "yaw": 321.88, "pitch": -0.38, "roll": 4.56, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 13.06, "z": -23.25, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9301, "x": -0.1013, "y": -0.0364, "z": 0.3511, "units": "" }
+{"type": "ypr", "yaw": 318.44, "pitch": -0.12, "roll": 13.25, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 14.88, "z": -22.19, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9163, "x": -0.1699, "y": -0.0615, "z": 0.3574, "units": "" }
+{"type": "ypr", "yaw": 317.19, "pitch": -0.50, "roll": 21.25, "units": "deg" }
+{"type": "mag", "x": 10.06, "y": 19.19, "z": -17.00, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9257, "x": -0.1099, "y": -0.0402, "z": 0.3596, "units": "" }
+{"type": "ypr", "yaw": 317.50, "pitch": -0.25, "roll": 13.38, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 19.56, "z": -17.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9432, "x": -0.0109, "y": -0.0002, "z": 0.3318, "units": "" }
+{"type": "ypr", "yaw": 321.12, "pitch": -0.38, "roll": 1.19, "units": "deg" }
+{"type": "mag", "x": 9.38, "y": 12.38, "z": -23.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9404, "x": -0.0494, "y": -0.0134, "z": 0.3361, "units": "" }
+{"type": "ypr", "yaw": 320.56, "pitch": -0.44, "roll": 6.62, "units": "deg" }
+{"type": "mag", "x": 10.50, "y": 12.50, "z": -23.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9197, "x": -0.1738, "y": -0.0609, "z": 0.3467, "units": "" }
+{"type": "ypr", "yaw": 318.44, "pitch": -0.44, "roll": 21.75, "units": "deg" }
+{"type": "mag", "x": 9.69, "y": 16.75, "z": -19.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9361, "x": -0.1053, "y": -0.0350, "z": 0.3339, "units": "" }
+{"type": "ypr", "yaw": 321.12, "pitch": -0.25, "roll": 10.81, "units": "deg" }
+{"type": "mag", "x": 10.50, "y": 19.25, "z": -18.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9471, "x": -0.0234, "y": -0.0048, "z": 0.3201, "units": "" }
+{"type": "ypr", "yaw": 322.62, "pitch": -0.31, "roll": 2.75, "units": "deg" }
+{"type": "mag", "x": 9.69, "y": 12.50, "z": -23.50, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9346, "x": -0.1538, "y": -0.0499, "z": 0.3169, "units": "" }
+{"type": "ypr", "yaw": 322.31, "pitch": -0.31, "roll": 20.69, "units": "deg" }
+{"type": "mag", "x": 8.56, "y": 15.06, "z": -21.19, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9374, "x": -0.1287, "y": -0.0423, "z": 0.3209, "units": "" }
+{"type": "ypr", "yaw": 322.19, "pitch": -0.19, "roll": 15.56, "units": "deg" }
+{"type": "mag", "x": 9.56, "y": 20.56, "z": -14.38, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9518, "x": -0.0193, "y": -0.0032, "z": 0.3062, "units": "" }
+{"type": "ypr", "yaw": 324.31, "pitch": -0.31, "roll": 2.19, "units": "deg" }
+{"type": "mag", "x": 10.00, "y": 12.25, "z": -23.25, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9496, "x": -0.0602, "y": -0.0172, "z": 0.3070, "units": "" }
+{"type": "ypr", "yaw": 324.38, "pitch": -0.19, "roll": 9.06, "units": "deg" }
+{"type": "mag", "x": 8.56, "y": 12.25, "z": -25.19, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9400, "x": -0.1513, "y": -0.0463, "z": 0.3022, "units": "" }
+{"type": "ypr", "yaw": 324.31, "pitch": -0.12, "roll": 17.06, "units": "deg" }
+{"type": "mag", "x": 8.56, "y": 20.75, "z": -16.88, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9548, "x": -0.0198, "y": -0.0033, "z": 0.2964, "units": "" }
+{"type": "ypr", "yaw": 325.44, "pitch": -0.31, "roll": 2.25, "units": "deg" }
+{"type": "mag", "x": 9.25, "y": 15.69, "z": -22.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9484, "x": -0.0397, "y": -0.0102, "z": 0.3145, "units": "" }
+{"type": "ypr", "yaw": 323.19, "pitch": -0.25, "roll": 5.81, "units": "deg" }
+{"type": "mag", "x": 8.19, "y": 12.75, "z": -23.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9418, "x": -0.1490, "y": -0.0459, "z": 0.2980, "units": "" }
+{"type": "ypr", "yaw": 324.88, "pitch": -0.06, "roll": 17.69, "units": "deg" }
+{"type": "mag", "x": 8.56, "y": 18.56, "z": -17.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9600, "x": -0.0206, "y": -0.0035, "z": 0.2791, "units": "" }
+{"type": "ypr", "yaw": 327.56, "pitch": -0.25, "roll": 2.38, "units": "deg" }
+{"type": "mag", "x": 8.19, "y": 16.88, "z": -19.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9529, "x": -0.0202, "y": -0.0035, "z": 0.3025, "units": "" }
+{"type": "ypr", "yaw": 324.62, "pitch": -0.31, "roll": 2.31, "units": "deg" }
+{"type": "mag", "x": 9.25, "y": 12.88, "z": -24.06, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9396, "x": -0.1467, "y": -0.0466, "z": 0.3058, "units": "" }
+{"type": "ypr", "yaw": 323.81, "pitch": -0.12, "roll": 18.38, "units": "deg" }
+{"type": "mag", "x": 7.75, "y": 15.75, "z": -19.75, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9451, "x": -0.1016, "y": -0.0329, "z": 0.3090, "units": "" }
+{"type": "ypr", "yaw": 323.81, "pitch": -0.06, "roll": 10.56, "units": "deg" }
+{"type": "mag", "x": 7.75, "y": 19.06, "z": -18.56, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9548, "x": -0.0209, "y": -0.0035, "z": 0.2966, "units": "" }
+{"type": "ypr", "yaw": 325.44, "pitch": -0.31, "roll": 2.38, "units": "deg" }
+{"type": "mag", "x": 8.88, "y": 13.00, "z": -22.88, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9476, "x": -0.0580, "y": -0.0172, "z": 0.3138, "units": "" }
+{"type": "ypr", "yaw": 323.31, "pitch": -0.19, "roll": 6.88, "units": "deg" }
+{"type": "mag", "x": 8.19, "y": 13.00, "z": -24.06, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9349, "x": -0.1230, "y": -0.0435, "z": 0.3300, "units": "" }
+{"type": "ypr", "yaw": 321.19, "pitch": 0.00, "roll": 14.38, "units": "deg" }
+{"type": "mag", "x": 8.56, "y": 18.75, "z": -19.88, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9632, "x": -0.0205, "y": -0.0044, "z": 0.2680, "units": "" }
+{"type": "ypr", "yaw": 328.88, "pitch": -0.12, "roll": 2.38, "units": "deg" }
+{"type": "mag", "x": 8.19, "y": 12.56, "z": -23.00, "units": "uT" }
+{"type": "cal", "sys": 3, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9592, "x": -0.0212, "y": -0.0035, "z": 0.2817, "units": "" }
+{"type": "ypr", "yaw": 327.31, "pitch": -0.31, "roll": 2.44, "units": "deg" }
+{"type": "mag", "x": 7.75, "y": 13.25, "z": -23.75, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9621, "x": -0.0209, "y": -0.0027, "z": 0.2719, "units": "" }
+{"type": "ypr", "yaw": 328.44, "pitch": -0.31, "roll": 2.38, "units": "deg" }
+{"type": "mag", "x": 10.00, "y": 13.00, "z": -21.06, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9621, "x": -0.0208, "y": -0.0026, "z": 0.2719, "units": "" }
+{"type": "ypr", "yaw": 328.44, "pitch": -0.31, "roll": 2.31, "units": "deg" }
+{"type": "mag", "x": 10.00, "y": 12.25, "z": -22.69, "units": "uT" }
+{"type": "cal", "sys": 2, "accel": 1, "gyro": 3, "mag": 3}
+{"type": "temp", "temp": 28, "units": "C" }
+{"type": "quat", "w": 0.9621, "x": -0.0206, "y": -0.0026, "z": 0.2719, "units": "" }
+{"type": "ypr", "yaw": 328.44, "pitch": -0.31, "roll": 2.31, "units"
