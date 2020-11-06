@@ -13,7 +13,7 @@ EXTRACT-DATA | TRANSFORM-DATA | LOAD && DISPLAY DATA
 `cat ./examples/example_IMU_data.txt | python src/rpy_adapter.py | python src/time_series.py`
 ![rpy demo](./images/rpy.gif?raw=true)
 
-`cat ./examples/example_IMU_data.txt | python src/rpy_adapter.py | python src/time_series.py`
+`cat ./examples/example_IMU_data.txt | python src/heading_adapter.py | python src/time_series.py`
 ![heading only demo](./images/heading_only.gif?raw=true)
 
 ### Run with real-time sensor outputting on serial port
