@@ -1,1 +1,1 @@
-plotext
+plotext==1.0.10
